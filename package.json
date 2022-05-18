@@ -1,5 +1,8 @@
 {
-  "name": "my-first-npm-library",
+  "name": "@yankee20011/my-react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/yankee20011"
+  },
   "version": "0.0.1",
   "description": "Simple testing creating a library",
   "main": "index.js",
